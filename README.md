@@ -11,10 +11,10 @@ This project uses machine learning to recommend songs based on listening history
 
 
 📌 Usage
--1️⃣ Load the dataset.
--2️⃣ Train the model using the Random Forest Classifier.
--3️⃣ Input a song or user listening history.
--4️⃣ Get the top recommended songs!
+-1️⃣ Load the dataset.**
+-2️⃣ Train the model using the Random Forest Classifier.**
+-3️⃣ Input a song or user listening history.**
+-4️⃣ Get the top recommended songs!**
 
 📊 Results
 -✅ Model Accuracy: 83.88%
