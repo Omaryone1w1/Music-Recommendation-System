@@ -15,3 +15,6 @@ This project uses machine learning to recommend songs based on listening history
 Run the following command to install required dependencies:  
 ```bash
 pip install pandas numpy scikit-learn
+git clone https://github.com/Omaryone1w1/Music-Recommendation-System.git  
+cd Music-Recommendation-System  
+jupyter notebook  
